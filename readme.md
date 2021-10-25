@@ -19,4 +19,4 @@ open with live server
 
 <hr/>
 
-Thank you for  [Prototurk Youtube Channel](https://www.youtube.com/c/ArinYazilim/featured).
+Thank you for  [Arin Yazilim Youtube Channel](https://www.youtube.com/c/ArinYazilim/featured).
