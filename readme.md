@@ -2,7 +2,7 @@
 
 <hr/>
 
-### [Live Website](https://reactjs-brandcolors.netlify.app/)
+### [Live Website](https://rasulsonmez.github.io/onePageTemplate/)
 
 ## Used packages
 
