@@ -2,7 +2,7 @@
 
 <hr/>
 
-### [Live Website](https://rasulsonmez.github.io/onePageTemplate/)
+### [Live Website](https://hardcore-jennings-27ff34.netlify.app/)
 
 ## Used packages
 
