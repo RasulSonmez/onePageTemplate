@@ -432,7 +432,7 @@ section#portfolio {
 .portfolio-item-1 {
   grid-area: item-1;
   min-height: 50rem;
-  background-image: url("https://cdn.pixabay.com/photo/2014/05/03/00/46/gadgets-336635_960_720.jpg");
+  background-image: url("https://cdn.pixabay.com/photo/2016/09/10/17/18/book-1659717_960_720.jpg");
 }
 .portfolio-item-2 {
   grid-area: item-2;
